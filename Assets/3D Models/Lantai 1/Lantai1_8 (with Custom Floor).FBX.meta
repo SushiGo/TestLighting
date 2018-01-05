@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 4bd85e6c705d65a4087c46449380d0e4
+timeCreated: 1515066600
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box004
+    100006: Box006
+    100008: Box007
+    100010: Box007 1
+    100012: Box008
+    100014: Box008 1
+    100016: Box009
+    100018: Box009 1
+    100020: Box01
+    100022: Box010
+    100024: Box011
+    100026: Box012
+    100028: Box013
+    100030: Box014
+    100032: Box02
+    100034: Box020
+    100036: Box023
+    100038: Box025
+    100040: Box562
+    100042: Box563
+    100044: Box564
+    100046: Box565
+    100048: Box566
+    100050: Box567
+    100052: Box568
+    100054: Box569
+    100056: Box570
+    100058: Box571
+    100060: Box572
+    100062: Box573
+    100064: Box574
+    100066: Box575
+    100068: Box576
+    100070: Box577
+    100072: Box578
+    100074: Box579
+    100076: Box580
+    100078: Box581
+    100080: Box582
+    100082: Box583
+    100084: Box584
+    100086: Box585
+    100088: Box598
+    100090: Box599
+    100092: Box600
+    100094: Box601
+    100096: Box602
+    100098: Box603
+    100100: Box604
+    100102: Box605
+    100104: Box606
+    100106: Box607
+    100108: Box608
+    100110: Box609
+    100112: Box610
+    100114: Box611
+    100116: Box612
+    100118: Box613
+    100120: Box614
+    100122: Box615
+    100124: Box616
+    100126: Box617
+    100128: Box618
+    100130: Box619
+    100132: Chair
+    100134: Chair001
+    100136: Chair001_MeshPart0
+    100138: Chair001_MeshPart1
+    100140: Chair_MeshPart0
+    100142: Chair_MeshPart1
+    100144: Cylinder001
+    100146: Cylinder001 1
+    100148: Cylinder001 2
+    100150: Cylinder002
+    100152: Cylinder003
+    100154: Cylinder003 1
+    100156: Cylinder004
+    100158: Cylinder004 1
+    100160: Cylinder005
+    100162: Cylinder005 1
+    100164: Cylinder006
+    100166: Cylinder006 1
+    100168: Cylinder007
+    100170: Cylinder008
+    100172: Cylinder025
+    100174: Cylinder026
+    100176: Cylinder027
+    100178: Cylinder028
+    100180: Cylinder029
+    100182: Cylinder030
+    100184: Cylinder031
+    100186: Cylinder032
+    100188: Cylinder033
+    100190: Cylinder034
+    100192: Cylinder035
+    100194: Cylinder036
+    100196: Cylinder037
+    100198: Cylinder038
+    100200: Cylinder039
+    100202: Cylinder040
+    100204: Cylinder041
+    100206: Cylinder042
+    100208: Cylinder043
+    100210: Cylinder044
+    100212: Cylinder045
+    100214: Cylinder046
+    100216: Cylinder047
+    100218: Cylinder048
+    100220: Cylinder049
+    100222: Cylinder050
+    100224: Cylinder051
+    100226: Cylinder052
+    100228: Cylinder053
+    100230: Cylinder054
+    100232: Cylinder055
+    100234: Cylinder056
+    100236: Cylinder073
+    100238: Cylinder074
+    100240: Cylinder075
+    100242: Cylinder076
+    100244: Cylinder077
+    100246: Cylinder078
+    100248: Cylinder079
+    100250: Cylinder080
+    100252: Cylinder081
+    100254: Cylinder082
+    100256: Cylinder083
+    100258: Cylinder084
+    100260: Cylinder085
+    100262: Cylinder086
+    100264: Cylinder087
+    100266: Cylinder088
+    100268: Cylinder089
+    100270: Cylinder090
+    100272: Cylinder091
+    100274: Cylinder092
+    100276: Cylinder093
+    100278: Cylinder094
+    100280: Cylinder095
+    100282: Cylinder096
+    100284: Desk
+    100286: Gedung
+    100288: Gedung 1
+    100290: Group005
+    100292: Group006
+    100294: Group007
+    100296: Group008
+    100298: Group009
+    100300: Group010
+    100302: Group011
+    100304: Group012
+    100306: Group013
+    100308: Group014
+    100310: Group015
+    100312: Group016
+    100314: Group017
+    100316: Group018
+    100318: Group019
+    100320: Group020
+    100322: Group021
+    100324: Group022
+    100326: Group023
+    100328: Group024
+    100330: Group025
+    100332: Group026
+    100334: Group027
+    100336: Group028
+    100338: Group029
+    100340: Group030
+    100342: Group031
+    100344: Group032
+    100346: Group033
+    100348: Group034
+    100350: Group047
+    100352: Group048
+    100354: Group049
+    100356: Group050
+    100358: Group051
+    100360: Group052
+    100362: Group053
+    100364: Group054
+    100366: Group055
+    100368: Group056
+    100370: Group057
+    100372: Group058
+    100374: Group059
+    100376: Group060
+    100378: Group061
+    100380: Group062
+    100382: Group063
+    100384: Group064
+    100386: house plant
+    100388: house plant001
+    100390: house plant002
+    100392: house plant003
+    100394: Kaca
+    100396: Kusen Kaca H
+    100398: Kusen Kaca V
+    100400: Lamp
+    100402: Lamp001
+    100404: Lantai
+    100406: //RootNode
+    100408: Line002
+    100410: Line003
+    100412: Line004
+    100414: Line005
+    100416: Line006
+    100418: Line007
+    100420: Line008
+    100422: Line009
+    100424: Line010
+    100426: Line011
+    100428: Line016
+    100430: Line017
+    100432: Line018
+    100434: Line019
+    100436: Line020
+    100438: Line021
+    100440: Logo
+    100442: Logo 1
+    100444: Meja Lampu
+    100446: Meja Lampu001
+    100448: Object002
+    100450: Object003
+    100452: Object004
+    100454: Object005
+    100456: Object006
+    100458: Object007
+    100460: Object008
+    100462: Object009
+    100464: Object01
+    100466: Object01 1
+    100468: Object010
+    100470: Object011
+    100472: Object012
+    100474: Object013
+    100476: Particle View 01
+    100478: Pintu Kaca
+    100480: Pintu Kaca001
+    100482: Pintu Kaca002
+    100484: Pintu Kaca003
+    100486: Pintu Kaca004
+    100488: Pintu Kaca007
+    100490: Pintu Kaca008
+    100492: Pintu Kaca009
+    100494: Sofa 3
+    100496: Table
+    100498: Table 1
+    100500: Table001
+    400000: Box001
+    400002: Box002
+    400004: Box004
+    400006: Box006
+    400008: Box007
+    400010: Box007 1
+    400012: Box008
+    400014: Box008 1
+    400016: Box009
+    400018: Box009 1
+    400020: Box01
+    400022: Box010
+    400024: Box011
+    400026: Box012
+    400028: Box013
+    400030: Box014
+    400032: Box02
+    400034: Box020
+    400036: Box023
+    400038: Box025
+    400040: Box562
+    400042: Box563
+    400044: Box564
+    400046: Box565
+    400048: Box566
+    400050: Box567
+    400052: Box568
+    400054: Box569
+    400056: Box570
+    400058: Box571
+    400060: Box572
+    400062: Box573
+    400064: Box574
+    400066: Box575
+    400068: Box576
+    400070: Box577
+    400072: Box578
+    400074: Box579
+    400076: Box580
+    400078: Box581
+    400080: Box582
+    400082: Box583
+    400084: Box584
+    400086: Box585
+    400088: Box598
+    400090: Box599
+    400092: Box600
+    400094: Box601
+    400096: Box602
+    400098: Box603
+    400100: Box604
+    400102: Box605
+    400104: Box606
+    400106: Box607
+    400108: Box608
+    400110: Box609
+    400112: Box610
+    400114: Box611
+    400116: Box612
+    400118: Box613
+    400120: Box614
+    400122: Box615
+    400124: Box616
+    400126: Box617
+    400128: Box618
+    400130: Box619
+    400132: Chair
+    400134: Chair001
+    400136: Chair001_MeshPart0
+    400138: Chair001_MeshPart1
+    400140: Chair_MeshPart0
+    400142: Chair_MeshPart1
+    400144: Cylinder001
+    400146: Cylinder001 1
+    400148: Cylinder001 2
+    400150: Cylinder002
+    400152: Cylinder003
+    400154: Cylinder003 1
+    400156: Cylinder004
+    400158: Cylinder004 1
+    400160: Cylinder005
+    400162: Cylinder005 1
+    400164: Cylinder006
+    400166: Cylinder006 1
+    400168: Cylinder007
+    400170: Cylinder008
+    400172: Cylinder025
+    400174: Cylinder026
+    400176: Cylinder027
+    400178: Cylinder028
+    400180: Cylinder029
+    400182: Cylinder030
+    400184: Cylinder031
+    400186: Cylinder032
+    400188: Cylinder033
+    400190: Cylinder034
+    400192: Cylinder035
+    400194: Cylinder036
+    400196: Cylinder037
+    400198: Cylinder038
+    400200: Cylinder039
+    400202: Cylinder040
+    400204: Cylinder041
+    400206: Cylinder042
+    400208: Cylinder043
+    400210: Cylinder044
+    400212: Cylinder045
+    400214: Cylinder046
+    400216: Cylinder047
+    400218: Cylinder048
+    400220: Cylinder049
+    400222: Cylinder050
+    400224: Cylinder051
+    400226: Cylinder052
+    400228: Cylinder053
+    400230: Cylinder054
+    400232: Cylinder055
+    400234: Cylinder056
+    400236: Cylinder073
+    400238: Cylinder074
+    400240: Cylinder075
+    400242: Cylinder076
+    400244: Cylinder077
+    400246: Cylinder078
+    400248: Cylinder079
+    400250: Cylinder080
+    400252: Cylinder081
+    400254: Cylinder082
+    400256: Cylinder083
+    400258: Cylinder084
+    400260: Cylinder085
+    400262: Cylinder086
+    400264: Cylinder087
+    400266: Cylinder088
+    400268: Cylinder089
+    400270: Cylinder090
+    400272: Cylinder091
+    400274: Cylinder092
+    400276: Cylinder093
+    400278: Cylinder094
+    400280: Cylinder095
+    400282: Cylinder096
+    400284: Desk
+    400286: Gedung
+    400288: Gedung 1
+    400290: Group005
+    400292: Group006
+    400294: Group007
+    400296: Group008
+    400298: Group009
+    400300: Group010
+    400302: Group011
+    400304: Group012
+    400306: Group013
+    400308: Group014
+    400310: Group015
+    400312: Group016
+    400314: Group017
+    400316: Group018
+    400318: Group019
+    400320: Group020
+    400322: Group021
+    400324: Group022
+    400326: Group023
+    400328: Group024
+    400330: Group025
+    400332: Group026
+    400334: Group027
+    400336: Group028
+    400338: Group029
+    400340: Group030
+    400342: Group031
+    400344: Group032
+    400346: Group033
+    400348: Group034
+    400350: Group047
+    400352: Group048
+    400354: Group049
+    400356: Group050
+    400358: Group051
+    400360: Group052
+    400362: Group053
+    400364: Group054
+    400366: Group055
+    400368: Group056
+    400370: Group057
+    400372: Group058
+    400374: Group059
+    400376: Group060
+    400378: Group061
+    400380: Group062
+    400382: Group063
+    400384: Group064
+    400386: house plant
+    400388: house plant001
+    400390: house plant002
+    400392: house plant003
+    400394: Kaca
+    400396: Kusen Kaca H
+    400398: Kusen Kaca V
+    400400: Lamp
+    400402: Lamp001
+    400404: Lantai
+    400406: //RootNode
+    400408: Line002
+    400410: Line003
+    400412: Line004
+    400414: Line005
+    400416: Line006
+    400418: Line007
+    400420: Line008
+    400422: Line009
+    400424: Line010
+    400426: Line011
+    400428: Line016
+    400430: Line017
+    400432: Line018
+    400434: Line019
+    400436: Line020
+    400438: Line021
+    400440: Logo
+    400442: Logo 1
+    400444: Meja Lampu
+    400446: Meja Lampu001
+    400448: Object002
+    400450: Object003
+    400452: Object004
+    400454: Object005
+    400456: Object006
+    400458: Object007
+    400460: Object008
+    400462: Object009
+    400464: Object01
+    400466: Object01 1
+    400468: Object010
+    400470: Object011
+    400472: Object012
+    400474: Object013
+    400476: Particle View 01
+    400478: Pintu Kaca
+    400480: Pintu Kaca001
+    400482: Pintu Kaca002
+    400484: Pintu Kaca003
+    400486: Pintu Kaca004
+    400488: Pintu Kaca007
+    400490: Pintu Kaca008
+    400492: Pintu Kaca009
+    400494: Sofa 3
+    400496: Table
+    400498: Table 1
+    400500: Table001
+    2300000: Box001
+    2300002: Box002
+    2300004: Box004
+    2300006: Box006
+    2300008: Box007
+    2300010: Box007 1
+    2300012: Box008
+    2300014: Box008 1
+    2300016: Box009
+    2300018: Box009 1
+    2300020: Box01
+    2300022: Box010
+    2300024: Box011
+    2300026: Box012
+    2300028: Box013
+    2300030: Box014
+    2300032: Box02
+    2300034: Box020
+    2300036: Box023
+    2300038: Box025
+    2300040: Box562
+    2300042: Box563
+    2300044: Box564
+    2300046: Box565
+    2300048: Box566
+    2300050: Box567
+    2300052: Box568
+    2300054: Box569
+    2300056: Box570
+    2300058: Box571
+    2300060: Box572
+    2300062: Box573
+    2300064: Box574
+    2300066: Box575
+    2300068: Box576
+    2300070: Box577
+    2300072: Box578
+    2300074: Box579
+    2300076: Box580
+    2300078: Box581
+    2300080: Box582
+    2300082: Box583
+    2300084: Box584
+    2300086: Box585
+    2300088: Box598
+    2300090: Box599
+    2300092: Box600
+    2300094: Box601
+    2300096: Box602
+    2300098: Box603
+    2300100: Box604
+    2300102: Box605
+    2300104: Box606
+    2300106: Box607
+    2300108: Box608
+    2300110: Box609
+    2300112: Box610
+    2300114: Box611
+    2300116: Box612
+    2300118: Box613
+    2300120: Box614
+    2300122: Box615
+    2300124: Box616
+    2300126: Box617
+    2300128: Box618
+    2300130: Box619
+    2300132: Chair001_MeshPart0
+    2300134: Chair001_MeshPart1
+    2300136: Chair_MeshPart0
+    2300138: Chair_MeshPart1
+    2300140: Cylinder001
+    2300142: Cylinder001 1
+    2300144: Cylinder001 2
+    2300146: Cylinder002
+    2300148: Cylinder003
+    2300150: Cylinder003 1
+    2300152: Cylinder004
+    2300154: Cylinder004 1
+    2300156: Cylinder005
+    2300158: Cylinder005 1
+    2300160: Cylinder006
+    2300162: Cylinder006 1
+    2300164: Cylinder007
+    2300166: Cylinder008
+    2300168: Cylinder025
+    2300170: Cylinder026
+    2300172: Cylinder027
+    2300174: Cylinder028
+    2300176: Cylinder029
+    2300178: Cylinder030
+    2300180: Cylinder031
+    2300182: Cylinder032
+    2300184: Cylinder033
+    2300186: Cylinder034
+    2300188: Cylinder035
+    2300190: Cylinder036
+    2300192: Cylinder037
+    2300194: Cylinder038
+    2300196: Cylinder039
+    2300198: Cylinder040
+    2300200: Cylinder041
+    2300202: Cylinder042
+    2300204: Cylinder043
+    2300206: Cylinder044
+    2300208: Cylinder045
+    2300210: Cylinder046
+    2300212: Cylinder047
+    2300214: Cylinder048
+    2300216: Cylinder049
+    2300218: Cylinder050
+    2300220: Cylinder051
+    2300222: Cylinder052
+    2300224: Cylinder053
+    2300226: Cylinder054
+    2300228: Cylinder055
+    2300230: Cylinder056
+    2300232: Cylinder073
+    2300234: Cylinder074
+    2300236: Cylinder075
+    2300238: Cylinder076
+    2300240: Cylinder077
+    2300242: Cylinder078
+    2300244: Cylinder079
+    2300246: Cylinder080
+    2300248: Cylinder081
+    2300250: Cylinder082
+    2300252: Cylinder083
+    2300254: Cylinder084
+    2300256: Cylinder085
+    2300258: Cylinder086
+    2300260: Cylinder087
+    2300262: Cylinder088
+    2300264: Cylinder089
+    2300266: Cylinder090
+    2300268: Cylinder091
+    2300270: Cylinder092
+    2300272: Cylinder093
+    2300274: Cylinder094
+    2300276: Cylinder095
+    2300278: Cylinder096
+    2300280: Desk
+    2300282: house plant
+    2300284: house plant001
+    2300286: house plant002
+    2300288: house plant003
+    2300290: Kaca
+    2300292: Kusen Kaca H
+    2300294: Kusen Kaca V
+    2300296: Lamp
+    2300298: Lamp001
+    2300300: Lantai
+    2300302: Line002
+    2300304: Line003
+    2300306: Line004
+    2300308: Line005
+    2300310: Line006
+    2300312: Line007
+    2300314: Line008
+    2300316: Line009
+    2300318: Line010
+    2300320: Line011
+    2300322: Line016
+    2300324: Line017
+    2300326: Line018
+    2300328: Line019
+    2300330: Line020
+    2300332: Line021
+    2300334: Object002
+    2300336: Object003
+    2300338: Object004
+    2300340: Object005
+    2300342: Object006
+    2300344: Object007
+    2300346: Object008
+    2300348: Object009
+    2300350: Object01
+    2300352: Object01 1
+    2300354: Object010
+    2300356: Object011
+    2300358: Object012
+    2300360: Object013
+    2300362: Table
+    2300364: Table 1
+    2300366: Table001
+    3300000: Box001
+    3300002: Box002
+    3300004: Box004
+    3300006: Box006
+    3300008: Box007
+    3300010: Box007 1
+    3300012: Box008
+    3300014: Box008 1
+    3300016: Box009
+    3300018: Box009 1
+    3300020: Box01
+    3300022: Box010
+    3300024: Box011
+    3300026: Box012
+    3300028: Box013
+    3300030: Box014
+    3300032: Box02
+    3300034: Box020
+    3300036: Box023
+    3300038: Box025
+    3300040: Box562
+    3300042: Box563
+    3300044: Box564
+    3300046: Box565
+    3300048: Box566
+    3300050: Box567
+    3300052: Box568
+    3300054: Box569
+    3300056: Box570
+    3300058: Box571
+    3300060: Box572
+    3300062: Box573
+    3300064: Box574
+    3300066: Box575
+    3300068: Box576
+    3300070: Box577
+    3300072: Box578
+    3300074: Box579
+    3300076: Box580
+    3300078: Box581
+    3300080: Box582
+    3300082: Box583
+    3300084: Box584
+    3300086: Box585
+    3300088: Box598
+    3300090: Box599
+    3300092: Box600
+    3300094: Box601
+    3300096: Box602
+    3300098: Box603
+    3300100: Box604
+    3300102: Box605
+    3300104: Box606
+    3300106: Box607
+    3300108: Box608
+    3300110: Box609
+    3300112: Box610
+    3300114: Box611
+    3300116: Box612
+    3300118: Box613
+    3300120: Box614
+    3300122: Box615
+    3300124: Box616
+    3300126: Box617
+    3300128: Box618
+    3300130: Box619
+    3300132: Chair001_MeshPart0
+    3300134: Chair001_MeshPart1
+    3300136: Chair_MeshPart0
+    3300138: Chair_MeshPart1
+    3300140: Cylinder001
+    3300142: Cylinder001 1
+    3300144: Cylinder001 2
+    3300146: Cylinder002
+    3300148: Cylinder003
+    3300150: Cylinder003 1
+    3300152: Cylinder004
+    3300154: Cylinder004 1
+    3300156: Cylinder005
+    3300158: Cylinder005 1
+    3300160: Cylinder006
+    3300162: Cylinder006 1
+    3300164: Cylinder007
+    3300166: Cylinder008
+    3300168: Cylinder025
+    3300170: Cylinder026
+    3300172: Cylinder027
+    3300174: Cylinder028
+    3300176: Cylinder029
+    3300178: Cylinder030
+    3300180: Cylinder031
+    3300182: Cylinder032
+    3300184: Cylinder033
+    3300186: Cylinder034
+    3300188: Cylinder035
+    3300190: Cylinder036
+    3300192: Cylinder037
+    3300194: Cylinder038
+    3300196: Cylinder039
+    3300198: Cylinder040
+    3300200: Cylinder041
+    3300202: Cylinder042
+    3300204: Cylinder043
+    3300206: Cylinder044
+    3300208: Cylinder045
+    3300210: Cylinder046
+    3300212: Cylinder047
+    3300214: Cylinder048
+    3300216: Cylinder049
+    3300218: Cylinder050
+    3300220: Cylinder051
+    3300222: Cylinder052
+    3300224: Cylinder053
+    3300226: Cylinder054
+    3300228: Cylinder055
+    3300230: Cylinder056
+    3300232: Cylinder073
+    3300234: Cylinder074
+    3300236: Cylinder075
+    3300238: Cylinder076
+    3300240: Cylinder077
+    3300242: Cylinder078
+    3300244: Cylinder079
+    3300246: Cylinder080
+    3300248: Cylinder081
+    3300250: Cylinder082
+    3300252: Cylinder083
+    3300254: Cylinder084
+    3300256: Cylinder085
+    3300258: Cylinder086
+    3300260: Cylinder087
+    3300262: Cylinder088
+    3300264: Cylinder089
+    3300266: Cylinder090
+    3300268: Cylinder091
+    3300270: Cylinder092
+    3300272: Cylinder093
+    3300274: Cylinder094
+    3300276: Cylinder095
+    3300278: Cylinder096
+    3300280: Desk
+    3300282: house plant
+    3300284: house plant001
+    3300286: house plant002
+    3300288: house plant003
+    3300290: Kaca
+    3300292: Kusen Kaca H
+    3300294: Kusen Kaca V
+    3300296: Lamp
+    3300298: Lamp001
+    3300300: Lantai
+    3300302: Line002
+    3300304: Line003
+    3300306: Line004
+    3300308: Line005
+    3300310: Line006
+    3300312: Line007
+    3300314: Line008
+    3300316: Line009
+    3300318: Line010
+    3300320: Line011
+    3300322: Line016
+    3300324: Line017
+    3300326: Line018
+    3300328: Line019
+    3300330: Line020
+    3300332: Line021
+    3300334: Object002
+    3300336: Object003
+    3300338: Object004
+    3300340: Object005
+    3300342: Object006
+    3300344: Object007
+    3300346: Object008
+    3300348: Object009
+    3300350: Object01
+    3300352: Object01 1
+    3300354: Object010
+    3300356: Object011
+    3300358: Object012
+    3300360: Object013
+    3300362: Table
+    3300364: Table 1
+    3300366: Table001
+    4300000: Chair_MeshPart0
+    4300002: Chair_MeshPart1
+    4300004: Chair001_MeshPart0
+    4300006: Chair001_MeshPart1
+    4300008: Desk
+    4300010: house plant003
+    4300012: Object003
+    4300014: house plant001
+    4300016: house plant002
+    4300018: house plant
+    4300020: Table
+    4300022: Box619
+    4300024: Object01
+    4300026: Cylinder003
+    4300028: Cylinder005
+    4300030: Kusen Kaca V
+    4300032: Cylinder006
+    4300034: Box002
+    4300036: Cylinder001
+    4300038: Cylinder004
+    4300040: Kusen Kaca H
+    4300042: Box599
+    4300044: Box598
+    4300046: Box001
+    4300048: Kaca
+    4300050: Box020
+    4300052: Box006
+    4300054: Box009
+    4300056: Box004
+    4300058: Box023
+    4300060: Box025
+    4300062: Cylinder005
+    4300064: Cylinder006
+    4300066: Line003
+    4300068: Cylinder007
+    4300070: Cylinder008
+    4300072: Cylinder003
+    4300074: Cylinder004
+    4300076: Line002
+    4300078: Cylinder001
+    4300080: Cylinder002
+    4300082: Box562
+    4300084: Box563
+    4300086: Box564
+    4300088: Box565
+    4300090: Box566
+    4300092: Box567
+    4300094: Cylinder025
+    4300096: Cylinder026
+    4300098: Line004
+    4300100: Cylinder027
+    4300102: Cylinder028
+    4300104: Cylinder029
+    4300106: Cylinder030
+    4300108: Line005
+    4300110: Cylinder031
+    4300112: Cylinder032
+    4300114: Box568
+    4300116: Box569
+    4300118: Box570
+    4300120: Box571
+    4300122: Box572
+    4300124: Box573
+    4300126: Cylinder033
+    4300128: Cylinder034
+    4300130: Line006
+    4300132: Cylinder035
+    4300134: Cylinder036
+    4300136: Cylinder037
+    4300138: Cylinder038
+    4300140: Line007
+    4300142: Cylinder039
+    4300144: Cylinder040
+    4300146: Box574
+    4300148: Box575
+    4300150: Box576
+    4300152: Box577
+    4300154: Box578
+    4300156: Box579
+    4300158: Cylinder041
+    4300160: Cylinder042
+    4300162: Line008
+    4300164: Cylinder043
+    4300166: Cylinder044
+    4300168: Cylinder045
+    4300170: Cylinder046
+    4300172: Line009
+    4300174: Cylinder047
+    4300176: Cylinder048
+    4300178: Box580
+    4300180: Box581
+    4300182: Box582
+    4300184: Box583
+    4300186: Box584
+    4300188: Box585
+    4300190: Cylinder049
+    4300192: Cylinder050
+    4300194: Line010
+    4300196: Cylinder051
+    4300198: Cylinder052
+    4300200: Cylinder053
+    4300202: Cylinder054
+    4300204: Line011
+    4300206: Cylinder055
+    4300208: Cylinder056
+    4300210: Box600
+    4300212: Box601
+    4300214: Box602
+    4300216: Box603
+    4300218: Box604
+    4300220: Box605
+    4300222: Cylinder073
+    4300224: Cylinder074
+    4300226: Line016
+    4300228: Cylinder075
+    4300230: Cylinder076
+    4300232: Cylinder077
+    4300234: Cylinder078
+    4300236: Line017
+    4300238: Cylinder079
+    4300240: Cylinder080
+    4300242: Box606
+    4300244: Box607
+    4300246: Box608
+    4300248: Box609
+    4300250: Box610
+    4300252: Box611
+    4300254: Box612
+    4300256: Cylinder081
+    4300258: Cylinder082
+    4300260: Line018
+    4300262: Cylinder083
+    4300264: Cylinder084
+    4300266: Cylinder085
+    4300268: Cylinder086
+    4300270: Line019
+    4300272: Cylinder087
+    4300274: Cylinder088
+    4300276: Box613
+    4300278: Box614
+    4300280: Box615
+    4300282: Box616
+    4300284: Box617
+    4300286: Box618
+    4300288: Cylinder089
+    4300290: Cylinder090
+    4300292: Line020
+    4300294: Cylinder091
+    4300296: Cylinder092
+    4300298: Cylinder093
+    4300300: Cylinder094
+    4300302: Line021
+    4300304: Cylinder095
+    4300306: Cylinder096
+    4300308: Box010
+    4300310: Box009
+    4300312: Cylinder001
+    4300314: Box008
+    4300316: Box007
+    4300318: Box013
+    4300320: Box011
+    4300322: Box014
+    4300324: Box012
+    4300326: Object002
+    4300328: Object01
+    4300330: Lamp001
+    4300332: Box007
+    4300334: Box008
+    4300336: Table001
+    4300338: Box01
+    4300340: Box02
+    4300342: Table
+    4300344: Lamp
+    4300346: Lantai
+    4300348: Object004
+    4300350: Object005
+    4300352: Object006
+    4300354: Object007
+    4300356: Object008
+    4300358: Object009
+    4300360: Object010
+    4300362: Object011
+    4300364: Object012
+    4300366: Object013
+    6400000: Box001
+    6400002: Box002
+    6400004: Box004
+    6400006: Box006
+    6400008: Box007
+    6400010: Box007 1
+    6400012: Box008
+    6400014: Box008 1
+    6400016: Box009
+    6400018: Box009 1
+    6400020: Box01
+    6400022: Box010
+    6400024: Box011
+    6400026: Box012
+    6400028: Box013
+    6400030: Box014
+    6400032: Box02
+    6400034: Box020
+    6400036: Box023
+    6400038: Box025
+    6400040: Box562
+    6400042: Box563
+    6400044: Box564
+    6400046: Box565
+    6400048: Box566
+    6400050: Box567
+    6400052: Box568
+    6400054: Box569
+    6400056: Box570
+    6400058: Box571
+    6400060: Box572
+    6400062: Box573
+    6400064: Box574
+    6400066: Box575
+    6400068: Box576
+    6400070: Box577
+    6400072: Box578
+    6400074: Box579
+    6400076: Box580
+    6400078: Box581
+    6400080: Box582
+    6400082: Box583
+    6400084: Box584
+    6400086: Box585
+    6400088: Box598
+    6400090: Box599
+    6400092: Box600
+    6400094: Box601
+    6400096: Box602
+    6400098: Box603
+    6400100: Box604
+    6400102: Box605
+    6400104: Box606
+    6400106: Box607
+    6400108: Box608
+    6400110: Box609
+    6400112: Box610
+    6400114: Box611
+    6400116: Box612
+    6400118: Box613
+    6400120: Box614
+    6400122: Box615
+    6400124: Box616
+    6400126: Box617
+    6400128: Box618
+    6400130: Box619
+    6400132: Chair001_MeshPart0
+    6400134: Chair001_MeshPart1
+    6400136: Chair_MeshPart0
+    6400138: Chair_MeshPart1
+    6400140: Cylinder001
+    6400142: Cylinder001 1
+    6400144: Cylinder001 2
+    6400146: Cylinder002
+    6400148: Cylinder003
+    6400150: Cylinder003 1
+    6400152: Cylinder004
+    6400154: Cylinder004 1
+    6400156: Cylinder005
+    6400158: Cylinder005 1
+    6400160: Cylinder006
+    6400162: Cylinder006 1
+    6400164: Cylinder007
+    6400166: Cylinder008
+    6400168: Cylinder025
+    6400170: Cylinder026
+    6400172: Cylinder027
+    6400174: Cylinder028
+    6400176: Cylinder029
+    6400178: Cylinder030
+    6400180: Cylinder031
+    6400182: Cylinder032
+    6400184: Cylinder033
+    6400186: Cylinder034
+    6400188: Cylinder035
+    6400190: Cylinder036
+    6400192: Cylinder037
+    6400194: Cylinder038
+    6400196: Cylinder039
+    6400198: Cylinder040
+    6400200: Cylinder041
+    6400202: Cylinder042
+    6400204: Cylinder043
+    6400206: Cylinder044
+    6400208: Cylinder045
+    6400210: Cylinder046
+    6400212: Cylinder047
+    6400214: Cylinder048
+    6400216: Cylinder049
+    6400218: Cylinder050
+    6400220: Cylinder051
+    6400222: Cylinder052
+    6400224: Cylinder053
+    6400226: Cylinder054
+    6400228: Cylinder055
+    6400230: Cylinder056
+    6400232: Cylinder073
+    6400234: Cylinder074
+    6400236: Cylinder075
+    6400238: Cylinder076
+    6400240: Cylinder077
+    6400242: Cylinder078
+    6400244: Cylinder079
+    6400246: Cylinder080
+    6400248: Cylinder081
+    6400250: Cylinder082
+    6400252: Cylinder083
+    6400254: Cylinder084
+    6400256: Cylinder085
+    6400258: Cylinder086
+    6400260: Cylinder087
+    6400262: Cylinder088
+    6400264: Cylinder089
+    6400266: Cylinder090
+    6400268: Cylinder091
+    6400270: Cylinder092
+    6400272: Cylinder093
+    6400274: Cylinder094
+    6400276: Cylinder095
+    6400278: Cylinder096
+    6400280: Desk
+    6400282: house plant
+    6400284: house plant001
+    6400286: house plant002
+    6400288: house plant003
+    6400290: Kaca
+    6400292: Kusen Kaca H
+    6400294: Kusen Kaca V
+    6400296: Lamp
+    6400298: Lamp001
+    6400300: Lantai
+    6400302: Line002
+    6400304: Line003
+    6400306: Line004
+    6400308: Line005
+    6400310: Line006
+    6400312: Line007
+    6400314: Line008
+    6400316: Line009
+    6400318: Line010
+    6400320: Line011
+    6400322: Line016
+    6400324: Line017
+    6400326: Line018
+    6400328: Line019
+    6400330: Line020
+    6400332: Line021
+    6400334: Object002
+    6400336: Object003
+    6400338: Object004
+    6400340: Object005
+    6400342: Object006
+    6400344: Object007
+    6400346: Object008
+    6400348: Object009
+    6400350: Object01
+    6400352: Object01 1
+    6400354: Object010
+    6400356: Object011
+    6400358: Object012
+    6400360: Object013
+    6400362: Table
+    6400364: Table 1
+    6400366: Table001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 0e6e21651e2f8be49970d95cde969eb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: d79cc31c809c4d645b307d59e8568c5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: beb13897547481b4e90997bf4798ad14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Med Ref
+    second: {fileID: 2100000, guid: 279c5bc4da324e540a3557df7c5dc099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CopperRytrace
+    second: {fileID: 2100000, guid: a179ca32d3871f74b8e71af301f32cdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassClear
+    second: {fileID: 2100000, guid: ca357ae983761db48b7d64f1c9496396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ILLUM
+    second: {fileID: 2100000, guid: 68cfd4e443a84b64a8a760c008b79cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather
+    second: {fileID: 2100000, guid: 0107063666ae2ce4e83b5eb88324bf29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MATTE_Glass
+    second: {fileID: 2100000, guid: 8a53813600472474988feff3bfcbb308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #232'
+    second: {fileID: 2100000, guid: 29aff59f95ee4124babca70172590b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: ab33e3e33710c3b43a1cb99517afad29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36222'
+    second: {fileID: 2100000, guid: 8800ad91fd906eb4b8eae1e407a7962f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37222'
+    second: {fileID: 2100000, guid: ffa9595cb02855d42aee970868df89e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 289738faa001cc047945ff8492b683eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #69'
+    second: {fileID: 2100000, guid: 80b2760d7436acd48a98238eabe68d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #9'
+    second: {fileID: 2100000, guid: ccaa5ac4c4829a44aaa1eae6f6d57cd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalChrome
+    second: {fileID: 2100000, guid: 8644fdf47241900489de620f41288fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 29abbaaa7e69d5342b3ae0a24f71ff19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu-Darurat
+    second: {fileID: 2100000, guid: df7fe34817cb12f47a536a5d05cf8ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steelbrushed
+    second: {fileID: 2100000, guid: 72ab51ba1d41e2848ac28d775d085513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0421\u0442\u0435\u043A\u043B\u043E_\u0437\u0435\u043B\u0435\u043D\u043E\u0432\u0430\u0442\u043E\u0435"
+    second: {fileID: 2100000, guid: 13cccc7d5cfe0c741913c870b6b26fa2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
