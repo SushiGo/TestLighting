@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class FadeTo : MonoBehaviour {
 
+    public string sceneName;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -17,5 +19,13 @@ public class FadeTo : MonoBehaviour {
     public void GoToScene(string sceneName)
     {
         Initiate.Fade(sceneName, Color.black, 2.0f);
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "Player")
+        {
+            Initiate.Fade(sceneName, Color.black, 2.0f);
+        }
     }
 }

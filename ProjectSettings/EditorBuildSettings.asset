@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lantai 1.unity
+    guid: 803fd56eeac24b84390e225a1bf4edab
+  - enabled: 1
+    path: Assets/Scenes/Lantai 11.unity
+    guid: 1a6729d3dd49dc148aa22fc9dddb031d
