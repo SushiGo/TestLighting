@@ -1181,7 +1181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   person: {fileID: 335114058}
-  materialPatung: {fileID: 2100000, guid: 124a0da798778a64b94d433ed9b55b49, type: 2}
+  materialPatung: {fileID: 2100000, guid: de230381ab2317f4da518237bbfd3ddf, type: 2}
   texturePatung:
   - {fileID: 2800000, guid: 67de3e6ed3bdee543a59368bdb55ee1f, type: 3}
   - {fileID: 2800000, guid: 95d44ea3e731e9b44ade3773c9b0ffab, type: 3}
@@ -4291,7 +4291,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 124a0da798778a64b94d433ed9b55b49, type: 2}
+  - {fileID: 2100000, guid: de230381ab2317f4da518237bbfd3ddf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7067,7 +7067,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: f0984ec42c5412349b91f2da3d3f0082, type: 2}
+  - {fileID: 2100000, guid: 05a32cf6510cca94680810c9bb27f0c4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8331,7 +8331,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   person: {fileID: 335114058}
-  materialPatung: {fileID: 2100000, guid: f0984ec42c5412349b91f2da3d3f0082, type: 2}
+  materialPatung: {fileID: 2100000, guid: 05a32cf6510cca94680810c9bb27f0c4, type: 2}
   texturePatung:
   - {fileID: 2800000, guid: 67de3e6ed3bdee543a59368bdb55ee1f, type: 3}
   - {fileID: 2800000, guid: 95d44ea3e731e9b44ade3773c9b0ffab, type: 3}
