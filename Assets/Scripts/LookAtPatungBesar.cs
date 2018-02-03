@@ -19,7 +19,6 @@ public class LookAtPatungBesar : MonoBehaviour {
         transform.LookAt(person.transform);
         float angle = transform.eulerAngles.y;
         transform.eulerAngles = new Vector3(0, transform.eulerAngles.y, 0);
-        print(angle);
 
         if (angle >= 11.25 && angle <= 33.75)
         {
