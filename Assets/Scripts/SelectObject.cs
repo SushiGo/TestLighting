@@ -23,6 +23,7 @@ public class SelectObject : MonoBehaviour {
             {
                 if (hitInfo.transform.gameObject.tag == "obj_pilihan")
                 {
+                    print(hitInfo.transform.gameObject.name);
                     GameObject[] UI_Penjelasan = GameObject.FindGameObjectsWithTag("UI Penjelasan");
                     int i = 0;
                     while (UI_Penjelasan[i].name != hitInfo.transform.gameObject.name)
