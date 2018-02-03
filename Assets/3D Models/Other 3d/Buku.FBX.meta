@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 6e2c3ad5d91565c4cb4dd9f30b4635f7
+timeCreated: 1517655636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BF 1
+    100002: BF 1 B
+    100004: BF 10
+    100006: BF 2
+    100008: BF 3
+    100010: BF 4
+    100012: BF 5
+    100014: BF 5.2
+    100016: BF 5.3
+    100018: BF 7
+    100020: Box001
+    100022: Box002
+    100024: Box003
+    100026: Box004
+    100028: Box005
+    100030: Box007
+    100032: Box008
+    100034: Box009
+    100036: Box010
+    100038: Box011
+    100040: Box012
+    100042: Box013
+    100044: Box014
+    100046: Box015
+    100048: Box016
+    100050: Box017
+    100052: Box018
+    100054: Box019
+    100056: Box020
+    100058: Box021
+    100060: Box022
+    100062: Box023
+    100064: Box024
+    100066: Box025
+    100068: Box026
+    100070: Box029
+    100072: Box030
+    100074: Box031
+    100076: Box032
+    100078: Box033
+    100080: Box034
+    100082: Box036
+    100084: Box037
+    100086: Box039
+    100088: Box040
+    100090: Box041
+    100092: Box042
+    100094: Box043
+    100096: Box044
+    100098: Box045
+    100100: Box046
+    100102: Box047
+    100104: Box048
+    100106: Box049
+    100108: Box050
+    100110: Box051
+    100112: Box052
+    100114: Box053
+    100116: Box054
+    100118: Box055
+    100120: Box056
+    100122: Box057
+    100124: Box058
+    100126: Box059
+    100128: Box061
+    100130: Box062
+    100132: Box063
+    100134: Box064
+    100136: //RootNode
+    100138: Tube001
+    100140: Tube002
+    100142: Tube003
+    100144: Tube004
+    100146: Tube005
+    100148: Tube006
+    100150: Tube007
+    100152: Tube008
+    100154: Tube009
+    100156: Tube010
+    100158: Tube011
+    100160: Tube012
+    100162: Tube013
+    100164: Tube014
+    100166: Tube015
+    100168: Tube016
+    100170: Tube017
+    100172: Tube018
+    100174: Tube019
+    100176: Tube020
+    100178: Tube021
+    100180: Tube022
+    100182: Tube023
+    100184: Tube024
+    100186: Tube025
+    100188: Tube026
+    100190: Tube027
+    100192: Tube029
+    100194: Tube030
+    100196: Tube031
+    100198: Tube032
+    100200: Tube033
+    100202: Tube034
+    100204: Tube035
+    100206: Tube036
+    400000: BF 1
+    400002: BF 1 B
+    400004: BF 10
+    400006: BF 2
+    400008: BF 3
+    400010: BF 4
+    400012: BF 5
+    400014: BF 5.2
+    400016: BF 5.3
+    400018: BF 7
+    400020: Box001
+    400022: Box002
+    400024: Box003
+    400026: Box004
+    400028: Box005
+    400030: Box007
+    400032: Box008
+    400034: Box009
+    400036: Box010
+    400038: Box011
+    400040: Box012
+    400042: Box013
+    400044: Box014
+    400046: Box015
+    400048: Box016
+    400050: Box017
+    400052: Box018
+    400054: Box019
+    400056: Box020
+    400058: Box021
+    400060: Box022
+    400062: Box023
+    400064: Box024
+    400066: Box025
+    400068: Box026
+    400070: Box029
+    400072: Box030
+    400074: Box031
+    400076: Box032
+    400078: Box033
+    400080: Box034
+    400082: Box036
+    400084: Box037
+    400086: Box039
+    400088: Box040
+    400090: Box041
+    400092: Box042
+    400094: Box043
+    400096: Box044
+    400098: Box045
+    400100: Box046
+    400102: Box047
+    400104: Box048
+    400106: Box049
+    400108: Box050
+    400110: Box051
+    400112: Box052
+    400114: Box053
+    400116: Box054
+    400118: Box055
+    400120: Box056
+    400122: Box057
+    400124: Box058
+    400126: Box059
+    400128: Box061
+    400130: Box062
+    400132: Box063
+    400134: Box064
+    400136: //RootNode
+    400138: Tube001
+    400140: Tube002
+    400142: Tube003
+    400144: Tube004
+    400146: Tube005
+    400148: Tube006
+    400150: Tube007
+    400152: Tube008
+    400154: Tube009
+    400156: Tube010
+    400158: Tube011
+    400160: Tube012
+    400162: Tube013
+    400164: Tube014
+    400166: Tube015
+    400168: Tube016
+    400170: Tube017
+    400172: Tube018
+    400174: Tube019
+    400176: Tube020
+    400178: Tube021
+    400180: Tube022
+    400182: Tube023
+    400184: Tube024
+    400186: Tube025
+    400188: Tube026
+    400190: Tube027
+    400192: Tube029
+    400194: Tube030
+    400196: Tube031
+    400198: Tube032
+    400200: Tube033
+    400202: Tube034
+    400204: Tube035
+    400206: Tube036
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box007
+    2300012: Box008
+    2300014: Box009
+    2300016: Box010
+    2300018: Box011
+    2300020: Box012
+    2300022: Box013
+    2300024: Box014
+    2300026: Box015
+    2300028: Box016
+    2300030: Box017
+    2300032: Box018
+    2300034: Box019
+    2300036: Box020
+    2300038: Box021
+    2300040: Box022
+    2300042: Box023
+    2300044: Box024
+    2300046: Box025
+    2300048: Box026
+    2300050: Box029
+    2300052: Box030
+    2300054: Box031
+    2300056: Box032
+    2300058: Box033
+    2300060: Box034
+    2300062: Box036
+    2300064: Box037
+    2300066: Box039
+    2300068: Box040
+    2300070: Box041
+    2300072: Box042
+    2300074: Box043
+    2300076: Box044
+    2300078: Box045
+    2300080: Box046
+    2300082: Box047
+    2300084: Box048
+    2300086: Box049
+    2300088: Box050
+    2300090: Box051
+    2300092: Box052
+    2300094: Box053
+    2300096: Box054
+    2300098: Box055
+    2300100: Box056
+    2300102: Box057
+    2300104: Box058
+    2300106: Box059
+    2300108: Box061
+    2300110: Box062
+    2300112: Box063
+    2300114: Box064
+    2300116: Tube001
+    2300118: Tube002
+    2300120: Tube003
+    2300122: Tube004
+    2300124: Tube005
+    2300126: Tube006
+    2300128: Tube007
+    2300130: Tube008
+    2300132: Tube009
+    2300134: Tube010
+    2300136: Tube011
+    2300138: Tube012
+    2300140: Tube013
+    2300142: Tube014
+    2300144: Tube015
+    2300146: Tube016
+    2300148: Tube017
+    2300150: Tube018
+    2300152: Tube019
+    2300154: Tube020
+    2300156: Tube021
+    2300158: Tube022
+    2300160: Tube023
+    2300162: Tube024
+    2300164: Tube025
+    2300166: Tube026
+    2300168: Tube027
+    2300170: Tube029
+    2300172: Tube030
+    2300174: Tube031
+    2300176: Tube032
+    2300178: Tube033
+    2300180: Tube034
+    2300182: Tube035
+    2300184: Tube036
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box007
+    3300012: Box008
+    3300014: Box009
+    3300016: Box010
+    3300018: Box011
+    3300020: Box012
+    3300022: Box013
+    3300024: Box014
+    3300026: Box015
+    3300028: Box016
+    3300030: Box017
+    3300032: Box018
+    3300034: Box019
+    3300036: Box020
+    3300038: Box021
+    3300040: Box022
+    3300042: Box023
+    3300044: Box024
+    3300046: Box025
+    3300048: Box026
+    3300050: Box029
+    3300052: Box030
+    3300054: Box031
+    3300056: Box032
+    3300058: Box033
+    3300060: Box034
+    3300062: Box036
+    3300064: Box037
+    3300066: Box039
+    3300068: Box040
+    3300070: Box041
+    3300072: Box042
+    3300074: Box043
+    3300076: Box044
+    3300078: Box045
+    3300080: Box046
+    3300082: Box047
+    3300084: Box048
+    3300086: Box049
+    3300088: Box050
+    3300090: Box051
+    3300092: Box052
+    3300094: Box053
+    3300096: Box054
+    3300098: Box055
+    3300100: Box056
+    3300102: Box057
+    3300104: Box058
+    3300106: Box059
+    3300108: Box061
+    3300110: Box062
+    3300112: Box063
+    3300114: Box064
+    3300116: Tube001
+    3300118: Tube002
+    3300120: Tube003
+    3300122: Tube004
+    3300124: Tube005
+    3300126: Tube006
+    3300128: Tube007
+    3300130: Tube008
+    3300132: Tube009
+    3300134: Tube010
+    3300136: Tube011
+    3300138: Tube012
+    3300140: Tube013
+    3300142: Tube014
+    3300144: Tube015
+    3300146: Tube016
+    3300148: Tube017
+    3300150: Tube018
+    3300152: Tube019
+    3300154: Tube020
+    3300156: Tube021
+    3300158: Tube022
+    3300160: Tube023
+    3300162: Tube024
+    3300164: Tube025
+    3300166: Tube026
+    3300168: Tube027
+    3300170: Tube029
+    3300172: Tube030
+    3300174: Tube031
+    3300176: Tube032
+    3300178: Tube033
+    3300180: Tube034
+    3300182: Tube035
+    3300184: Tube036
+    4300000: Tube005
+    4300002: Tube004
+    4300004: Tube003
+    4300006: Tube002
+    4300008: Tube001
+    4300010: Box002
+    4300012: Box001
+    4300014: Box003
+    4300016: Tube010
+    4300018: Box004
+    4300020: Tube008
+    4300022: Tube009
+    4300024: Tube006
+    4300026: Tube007
+    4300028: Tube013
+    4300030: Box014
+    4300032: Tube012
+    4300034: Tube020
+    4300036: Tube017
+    4300038: Tube016
+    4300040: Tube019
+    4300042: Tube021
+    4300044: Tube018
+    4300046: Box013
+    4300048: Tube022
+    4300050: Tube015
+    4300052: Tube014
+    4300054: Box015
+    4300056: Box011
+    4300058: Box005
+    4300060: Box016
+    4300062: Tube011
+    4300064: Box008
+    4300066: Box007
+    4300068: Box010
+    4300070: Box012
+    4300072: Box009
+    4300074: Box040
+    4300076: Box043
+    4300078: Box037
+    4300080: Box044
+    4300082: Box042
+    4300084: Box041
+    4300086: Box039
+    4300088: Box045
+    4300090: Box046
+    4300092: Box047
+    4300094: Box048
+    4300096: Box049
+    4300098: Box050
+    4300100: Box051
+    4300102: Box052
+    4300104: Box053
+    4300106: Box054
+    4300108: Box055
+    4300110: Box056
+    4300112: Box057
+    4300114: Box058
+    4300116: Box030
+    4300118: Box033
+    4300120: Box034
+    4300122: Box026
+    4300124: Box029
+    4300126: Box031
+    4300128: Box032
+    4300130: Tube036
+    4300132: Tube034
+    4300134: Tube031
+    4300136: Tube032
+    4300138: Tube035
+    4300140: Tube029
+    4300142: Tube033
+    4300144: Box036
+    4300146: Tube030
+    4300148: Box020
+    4300150: Box024
+    4300152: Tube025
+    4300154: Box025
+    4300156: Box019
+    4300158: Tube023
+    4300160: Tube026
+    4300162: Box021
+    4300164: Box018
+    4300166: Tube027
+    4300168: Box022
+    4300170: Box023
+    4300172: Tube024
+    4300174: Box017
+    4300176: Box062
+    4300178: Box059
+    4300180: Box061
+    4300182: Box063
+    4300184: Box064
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: be32dd1889165b043b611647062b4aef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15'
+    second: {fileID: 2100000, guid: 9c348083c2849514daca882544ef9ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {fileID: 2100000, guid: 9c348083c2849514daca882544ef9ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #17'
+    second: {fileID: 2100000, guid: 9c348083c2849514daca882544ef9ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 4c79b244faa7ebf4d8d07bf7f16e600b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 9c348083c2849514daca882544ef9ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: d6718c27fa741b54883c233c19e5a405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: ca6ea13c22a7435469486b3e4a4debbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: a6644df509a5e2647a2898b08be53f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: a6644df509a5e2647a2898b08be53f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: a6644df509a5e2647a2898b08be53f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: a6644df509a5e2647a2898b08be53f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 7dcee4d0e39dfa2458d7513e2c6669b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 84ff424fe2f976048a9245f6726c2146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: 7c08321a2808a124b871b39a6c35db10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #52'
+    second: {fileID: 2100000, guid: 59c28c739baa36c4d93ec8a07b283f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #53'
+    second: {fileID: 2100000, guid: f24aebd8a020b2e48a58f9dd88c4912d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55'
+    second: {fileID: 2100000, guid: da8ae1fbe833492438610dd9124f5b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: 3df1eda159d128744a808b76df1e020c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57'
+    second: {fileID: 2100000, guid: 1c3ce161216824643a53dff910ade380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #58'
+    second: {fileID: 2100000, guid: c4fd70c0618faa04bb7eda0af4f0c14c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #59'
+    second: {fileID: 2100000, guid: 84a63bb6b734681469c548be7e135006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #61'
+    second: {fileID: 2100000, guid: 069d82163477a8e4099fb6b300709009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #62'
+    second: {fileID: 2100000, guid: db5c64d34d920f44cb15607f17111f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #63'
+    second: {fileID: 2100000, guid: 71737c6bdda07b54296fe2f9d835c277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #66'
+    second: {fileID: 2100000, guid: 3699ef81d867ecb409c8398af64f758a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67'
+    second: {fileID: 2100000, guid: 2864d121e8abe5f4084bb6c0f4aa531f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #68'
+    second: {fileID: 2100000, guid: 1093acc1c5323c543be70cf4569ab68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #70'
+    second: {fileID: 2100000, guid: efaff928d9dbf46459f73ddc26ddf1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #71'
+    second: {fileID: 2100000, guid: 995ef62a675c0644da011021310b1e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #72'
+    second: {fileID: 2100000, guid: f074ee62166114044ae205d2f2a42750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2b48e7e197fefa44497b78511d9244f7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
