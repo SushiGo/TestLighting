@@ -40,11 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-<<<<<<< HEAD:Assets/T&M Patung/Patung Warna/pw_05/pw_05 (1).mat
-        m_Texture: {fileID: 2800000, guid: 9b6428666ad7af542b0f9a39c6ed02f3, type: 3}
-=======
-        m_Texture: {fileID: 2800000, guid: 67de3e6ed3bdee543a59368bdb55ee1f, type: 3}
->>>>>>> 41af131f1be62fa6b05b083995d324fa67b80530:Assets/T&M Patung/Patung Warna/pw_03/pw_02 (1).mat
+        m_Texture: {fileID: 2800000, guid: 843718dd8effc5a4f9677366af740491, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
